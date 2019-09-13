@@ -1,3 +1,14 @@
+---
+page_type: sample
+languages:
+- csharp
+- javascript
+products:
+- azure
+description: "This solution contains a series of benchmarks that demonstrate various concepts for distributed databases,"
+urlFragment: cosmos-multi-region-console
+---
+
 # Cosmos Global Distribution Demos
 
 ## Introduction
