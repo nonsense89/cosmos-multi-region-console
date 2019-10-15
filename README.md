@@ -9,7 +9,7 @@ description: "This solution contains a series of benchmarks that demonstrate var
 urlFragment: cosmos-multi-region-console
 ---
 
-# Cosmos Global Distribution Demos
+# Cosmos Global Distribution Demos (Console)
 
 ## Introduction
 
